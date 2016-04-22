@@ -1,0 +1,134 @@
+@import url(https://fonts.googleapis.com/css?family=Sigmar+One);
+@import url(https://fonts.googleapis.com/css?family=Overlock:700);
+html{
+  background-color: #FF8849;
+}
+#container {
+  text-align: center;
+  font-family: Sigmar One;
+  font-size: 20px;
+  background-color: #FF8849;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+#Menu {
+  float:left;
+  width: 33%;
+  padding-bottom: 400px;
+  box-sizing: border-box;
+  background-color: #FF6D1E;
+  background-image: url(images/beanmealfinal.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  color: #550000;
+}
+#Mission {
+  float: left;
+  width: 33%;
+  padding-bottom:400px;
+  box-sizing: border-box;
+  background-color: #EB5200;
+  background-image: url(images/beansfinal.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  color: #550000;
+}
+#Locations{
+  float: left;
+  width: 34%;
+  padding-bottom: 400px;
+  box-sizing: border-box;
+  background-image: url(images/EPfoodtruck_2-1.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #B63F00;
+  color: #550000;
+}
+h1 {
+  text-align: center;
+  color: #550000;
+  font-family: Sigmar One;
+  padding:20px;
+  font-size: 40px;
+}
+#tagline {
+  color: #550000;
+}
+#Apps {
+  color:#AA3939;
+  font-family: Sigmar One;
+  font-size: 25px;
+}
+#Soups {
+  color:#AA3939;
+  font-family: Sigmar One;
+  font-size: 25px;
+}
+#Sandwiches {
+  color:#AA3939;
+  font-family: Sigmar One;
+  font-size: 25px;
+}
+#Beansrice{
+  color:#AA3939;
+  font-family: Sigmar One;
+  font-size: 25px;
+}
+#Apps1 {
+  font-family: Overlock;
+  margin: 2%;
+  padding: 2%;
+  <img src: "images/beanmealfinal.jpg" alt="beans">
+}
+#Sandwiches1 {
+  font-family: Overlock;
+  margin: 2%;
+  padding: 2%;
+}
+#Soups1 {
+  font-family: Overlock;
+  margin: 2%;
+  padding: 2%;
+}
+#BR1 {
+  font-family: Overlock;
+  margin: 2%;
+  padding: 2%;
+}
+#container1{
+  background-color: #FF8849;
+}
+#container2{
+  background-color: #FF8849;
+  font-family: Overlock;
+}
+#mission1{
+  margin: 5%;
+  padding: 2%;
+  background-color: #FF8849;
+}
+#mission2{
+  margin: 5%;
+  padding: 2%;
+  background-color: #FF8849;
+}
+#mission3{
+  margin: 5%;
+  padding: 2%;
+  background-color: #FF8849;
+}
+#container3{
+  background-color: #FF8849;
+  font-family: Overlock;
+}
+
+#upcoming {
+  color:#AA3939;
+  font-family: Sigmar One;
+  font-size: 25px;
+}
+#locate {
+  float: right;
+}
